@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opipooqa.github.io/sitemap_index.opipooqa
